@@ -1,12 +1,7 @@
 Olá meu nome é daniel sávio
 
-<<<<<<< HEAD
-
-
-
-
 
 oioi
-=======
+
 Teste 1
->>>>>>> 545a87ff794842222f07e671a7be5bfc9ef13053
+
